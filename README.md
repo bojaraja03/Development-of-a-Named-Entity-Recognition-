@@ -21,8 +21,8 @@ Develop a Gradio-based user interface that accepts text input, processes it usin
 
 ### PROGRAM:
 ```
-Name : P PARTHIBAN
-Register number : 212223230145
+Name : BOJA RAJA G
+Register number : 212225230036
 ```
 ```python
 import os
